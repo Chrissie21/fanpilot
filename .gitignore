@@ -1,0 +1,5 @@
+build/
+*.plist.tmp
+*.dSYM/
+*.o
+*.plist.sarif
